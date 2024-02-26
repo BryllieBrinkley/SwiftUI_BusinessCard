@@ -1,4 +1,5 @@
-I've designed my personal business card using SwiftUI, featuring my personal email and contact number.
+# Jibryll Brinkley - Business Card
+I've designed my business card using SwiftUI, featuring my name, picture, and contact info.
 
 
 # Installation & How to Run this project
